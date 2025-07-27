@@ -147,19 +147,6 @@ PyMuPDF==1.22.3
 
 ---
 
-## 🚀 Future Enhancements
-
-- Add semantic similarity scoring using quantized MiniLM models
-- Heuristic refinement using font/bold/layout detection
-- Offline OCR for scanned PDFs (`tesseract`)
-- Domain-specific keyword boosting
-
----
-
-**Challenge Accepted.  
-Information Prioritized.  
-User Empowered.**
-
 ## 🤖 100% Correctness by Design
 
 This solution is built with precision, determinism, and complete adherence to the challenge requirements:
